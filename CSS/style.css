@@ -1,0 +1,23 @@
+.header{
+    background-color: black;
+    height: 100px;
+}
+ul{
+    list-style-type: none;
+    
+}
+.nav{
+    height: 50px;
+    width: 25%;
+    background-color: red;
+    
+}
+.footer{
+    height: 100px;
+    background-color: black;
+    color:blanchedalmond
+}
+.main{
+    background-color: blue;
+    height: 50px;
+}
